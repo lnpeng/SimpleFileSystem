@@ -1,2 +1,2 @@
 # SimpleFileSystem
-A simple file system.
+A simple file system with directories and files.
